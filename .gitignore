@@ -6,3 +6,8 @@
 /.idea/discord.xml
 /.idea/workspace.xml
 /.idea/
+/.gradle/
+/build/
+/gradle/
+/tokens/
+/.gitignore
