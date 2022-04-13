@@ -1,0 +1,8 @@
+/gradlew
+/gradlew.bat
+/settings.gradle
+/tokens/StoredCredential
+/src/main/resources/credentials.json
+/.idea/discord.xml
+/.idea/workspace.xml
+/.idea/
